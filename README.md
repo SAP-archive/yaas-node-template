@@ -1,3 +1,5 @@
+**Due to the retirement of YaaS, this repository is archived and will no longer be maintained.**
+
 # YaaS node.js service template
 
 This service is very simple implementation of wishlist service used in YaaS getting started guides. 
